@@ -1,10 +1,6 @@
 ---
 title: Home
 layout: home
-title: Basic ArchivesSpace
-layout: page
-title: Accession Creation
-layout: page
 ---
 
 hello
