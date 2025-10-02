@@ -1,5 +1,4 @@
 ---
-_includes/nav_footer_custom.html
 title: Home
 layout: home
 ---
