@@ -1,0 +1,17 @@
+Getting Started
+- Go to https://aspace.dlib.indiana.edu/
+- Type the username and password given to you (your CAS login)
+- Select your repository from the dropdown “Select Repository” Menu at the top of the page.
+It may be helpful to practice the methods included in this documentation. To do so in aspace that will not be published toarchives.iu.edu,please use our Training Repository. Please e-maildcshelp@indiana.eduto gain access to the repository.
+
+Questions?
+Please consult the ArchivesSpace Glossary with questions about terms used in the following pages.
+Please e-mail dcshelp@indiana.edu with any questions.
+
+General Tips
+- Save often!
+- Text formatting in theAccessions module is not consistent with the Resource module. At this time, emphasizing text (e.g.,italics, bold, etc.) is not possible in accession records with the exception of the title. 
+However, a title that has been bolded in an accession record will not populate correctly in a spawned resource. However, any manual text formatting input in the Accessions module will carry over if the Accession record is spawned into a resource. 
+With that said, there are some formatting speedbumps to consider when spawning a resource. Please see the Text Formatting Considerations subsection of the Spawning a Resource section of this documentation for more information.
+- ASpace is case-sensitive! Make sure you are using consistent capitalization to avoid errors. You can follow the lead of the examples we’ve provided in this documentation.
+- Use your best judgement. You are the expert for your repository.
